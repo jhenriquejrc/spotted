@@ -1,0 +1,22 @@
+{
+  "name": "node-authentication",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angularjs": "0.0.1",
+    "bcrypt-nodejs": "latest",
+    "connect-flash": "~0.1.1",
+    "ejs": "~0.8.5",
+    "express": "~3.4.4",
+    "google-places": "0.0.2",
+    "mongoose": "~3.8.1",
+    "node-pre-gyp": "^0.6.36",
+    "passport": "~0.1.17",
+    "passport-facebook": "~1.0.2",
+    "passport-google-oauth": "~0.1.5",
+    "passport-local": "~0.1.6",
+    "passport-twitter": "~1.0.2",
+    "request": "^2.81.0",
+    "util": "^0.10.3"
+  }
+}
